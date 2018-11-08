@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.1.41</version>
+			<version>1.2.31</version>
 		</dependency>
   <!--   web项目必须配置 -->
   	<dependency>
